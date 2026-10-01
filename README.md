@@ -16,4 +16,4 @@ Recommendation: For maximum recognition accuracy with similar numbers (such as 5
 Python 3.8 or higher (with Tkinter included during setup).
 
 3. Required Python Packages
-Install the required dependencies via terminal:
+Install the required dependencies via terminal.
